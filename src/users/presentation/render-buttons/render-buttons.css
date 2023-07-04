@@ -1,0 +1,13 @@
+button {
+
+    margin: 15px;
+
+}
+
+#current-page {
+
+    font-size: 1.3rem;
+    color: whitesmoke !important;
+    margin-right: 10px;
+    margin-left: 10px;
+}
